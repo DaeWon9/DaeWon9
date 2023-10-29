@@ -4,7 +4,6 @@
 ### Career
 - 🎓 Department of Software in Sejong Univ.
 - 👨🏻‍💻 Sejong Univ. En# 22th
-- <img src="https://s3.ap-northeast-2.amazonaws.com/zoyi-ghost/kr/2019/03/ch_loader_white-1552365640918.gif" width="20px"/> 채널톡 챌린저스 1기
 
 ### Awards
 - [🎖 2023 Microsoft Imagine Cup - World Finalists ( Asia 대표 )](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2023-imagine-cup-world-finalists/ba-p/3754378) - [[Github]](https://github.com/Eyetist/Eyetist_Client)
