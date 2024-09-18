@@ -2,7 +2,7 @@
 **[My Portfolio](https://daewon9.github.io/portfolio/)**<br/>
 
 ### Career
-- 🔥 HMG SOFTEER BOOTCAMP 2024 (2024.07. ~ )
+- 🔥 HMG SOFTEER BOOTCAMP 2024 (2024.07. ~ 2024.08.)
 - 🎓 Department of Software in Sejong Univ.
 - 👨🏻‍💻 Sejong Univ. En# 22th
 
